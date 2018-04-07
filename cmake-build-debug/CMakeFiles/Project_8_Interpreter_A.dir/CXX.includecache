@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/armin/Desktop/Project 8 Interpreter A/All.h
+iostream
+-
+cstdio
+-
+Classes.h
+/cygdrive/c/Users/armin/Desktop/Project 8 Interpreter A/Classes.h
+
+/cygdrive/c/Users/armin/Desktop/Project 8 Interpreter A/Classes.h
+String.h
+/cygdrive/c/Users/armin/Desktop/Project 8 Interpreter A/String.h
+
+/cygdrive/c/Users/armin/Desktop/Project 8 Interpreter A/Input.cpp
+stdio.h
+-
+stdlib.h
+-
+assert.h
+-
+Parse.h
+/cygdrive/c/Users/armin/Desktop/Project 8 Interpreter A/Parse.h
+
+/cygdrive/c/Users/armin/Desktop/Project 8 Interpreter A/Main.cpp
+Parse.h
+/cygdrive/c/Users/armin/Desktop/Project 8 Interpreter A/Parse.h
+
+/cygdrive/c/Users/armin/Desktop/Project 8 Interpreter A/Parse.h
+stdint.h
+-
+
+/cygdrive/c/Users/armin/Desktop/Project 8 Interpreter A/String.h
+stdlib.h
+-
+stdint.h
+-
+
+/cygdrive/c/Users/armin/Desktop/Project 8 Interpreter A/run.cpp
+iostream
+-
+map
+-
+Parse.h
+/cygdrive/c/Users/armin/Desktop/Project 8 Interpreter A/Parse.h
+All.h
+/cygdrive/c/Users/armin/Desktop/Project 8 Interpreter A/All.h
+
